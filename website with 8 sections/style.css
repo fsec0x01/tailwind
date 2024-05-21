@@ -1,0 +1,22 @@
+.card-custom{
+   display: flex;
+}
+.card-custom .card{
+    margin: 10px;
+}
+.countdown-custom{
+    align-content: center;
+}
+.stat-custom{
+    margin-left: 100px;
+}
+.input-form-custom{
+
+    width: 50%;
+}
+.toggle-custom{
+    float: right;
+    justify-content: center;
+    margin-top: 10px;
+    border-bottom: 1px solid white;
+}
